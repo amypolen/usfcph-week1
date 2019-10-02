@@ -24,3 +24,9 @@ Developers work in teams:
 Quality Assurance people: automated (writing code to test apps) and manual(users manually testing apps)
 Business intelligence: Business Analyst+ Product Owner + Project Manager+ Subject Matter Expert(someone who doesn't necessarily code but is experiment on the topic))
 Operations: Developer Xperience (people who make apps for developers to optimize) + DataBase Admin + Site Reliability Engineer + Continuously Integrate/Continuously Deliver (getting code to the public/software) 
+
+This course will cover: 
+1. GIT + Ecosystem + Getting Started
+2. Front End Fundamentals (HTML + CSS + JS)
+3. Intro to Programming Logic 
+4. Back End Fundamentals (Data, APIs)
