@@ -10,4 +10,3 @@ Branch: Forking from a file on your computer, used to edit code not live, used t
 Merge: Taking a branch and merging it back into the tree trunk
 Squash merge: No matter how many times you commit, it will merge it as one 
 Pull Request + Merge Request
-
