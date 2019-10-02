@@ -10,3 +10,17 @@ Branch: Forking from a file on your computer, used to edit code not live, used t
 Merge: Taking a branch and merging it back into the tree trunk
 Squash merge: No matter how many times you commit, it will merge it as one 
 Pull Request + Merge Request
+
+Ecosystem
+Developers - what are they?
+Front End vs Back End
+Front end: anytime you are interacting with something, user interface, visual side that is user is interacting with
+Front end types, further broken down > XPlatform, iOS, Android, TV, Wearables like watch, IOT like smartfridge and ring camera, Web, Desktop, Speciality > Design (UI or interior designer and UX or the experience for the user, accessibility) and Logic 
+Back end: the engine to the car, how something works actually 
+Back end > Security, Data (Databases, AI/ML, APIs), Logic 
+Fullstack engineer: can do both of these confidently 
+
+Developers work in teams: 
+Quality Assurance people: automated (writing code to test apps) and manual(users manually testing apps)
+Business intelligence: Business Analyst+ Product Owner + Project Manager+ Subject Matter Expert(someone who doesn't necessarily code but is experiment on the topic))
+Operations: Developer Xperience (people who make apps for developers to optimize) + DataBase Admin + Site Reliability Engineer + Continuously Integrate/Continuously Deliver (getting code to the public/software) 
